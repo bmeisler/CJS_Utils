@@ -47,7 +47,7 @@ var draggableItem = function() {
             my.mc.onMouseUp = function() {
                 console.log("draggable mc mouse up");
                 if (my.mouseUpCallback !== null && my.mouseUpCallback !== undefined) {
-                    my.mouseUpCallback(my);
+                    my.mouseUpCallback(my, this);
                 }
             };
         }
