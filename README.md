@@ -5,12 +5,12 @@ Lots of little pieces of code I use to work with CreateJS
 
 little util for drawing dashed line of whatever length
 
-<h3>Circle_prototypeANDModule.js/h3>
+<h3>Circle_prototypeANDModule.js</h3>
 
 A class for drawing ellipses (default is circles) of any radius, color and stroke. Can draw circles within circles.
 For testing purposes, I wrote this as both a closure and using prototype.
 
-<h3>DNDItem_prototype_vs_modular.js/h3>
+<h3>DNDItem_prototype_vs_modular.js</h3>
 
 An all-purpose class for creating draggable objects. Options include:
 - creating an array of draggable objects
@@ -23,6 +23,6 @@ This class is very flexible and handles just about all situations we would encou
 
 I originally wrote it using prototype, then re-wrote it using the module design pattern; both versions are included here.
 
-<h3>hashmap.js/h3>
+<h3>hashmap.js</h3>
 
 Before we had access to lodash, I wrote this helper class to make hashmaps.
