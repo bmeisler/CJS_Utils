@@ -1,7 +1,7 @@
 # CJS_Utils
 Lots of little pieces of code I use to work with CreateJS
 
-DashedLineTo
+<h3>DashedLineTo</h3>
 
 little util for drawing dashed line of whatever length
 
